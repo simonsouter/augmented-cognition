@@ -64,7 +64,7 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 ---
 
 ### ACI concept files (use these once; referenced by both options)
-1. [Structured_Conceptual_Enquiry.md](Structured-Conceptual-Enquiry.md)
+1. [Structured-Conceptual-Enquiry.md](Structured-Conceptual-Enquiry.md)
 2. [Meta-Thread-Concept.md](Meta-Thread-Concept.md)
 3. [Foundation-Phase-Concept.md](Foundation-Phase-Concept.md)
 4. [Inference-Phase-Concept.md](Inference-Phase-Concept.md)
