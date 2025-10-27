@@ -63,26 +63,25 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 
 ---
 
+### ACI concept files (use these once; referenced by both options)
+1. [1_Structured_Conceptual_Inquiry.md](1_Structured_Conceptual_Inquiry.md)
+2. [2_Meta_Thread_Concept.md](2_Meta_Thread_Concept.md)
+3. [3_Foundation_Phase_Concept.md](3_Foundation_Phase_Concept.md)
+4. [4_Inference_Phase_Concept.md](4_Inference_Phase_Concept.md)
+5. [5_Integration_Phase_Concept.md](5_Integration_Phase_Concept.md)
+
 ## Option 1 — Quick Start (Paste-and-Go)
 Ideal for testing or short inquiries directly in ChatGPT or Claude.
 
 1. **Open a new LLM chat session.**  
-2. **Paste the following files into the chat (in order):**
-
-1_Structured_Conceptual_Inquiry.md
-2_Meta_Thread_Concept.md
-3_Foundation_Phase_Concept.md
-4_Inference_Phase_Concept.md
-5_Integration_Phase_Concept.md
-
-Then start a new chat to establish the meta thread i.e. "start meta thread"
+2. **Paste the ACI concept files listed above (in order) into the chat.**  
+3. Start a new chat message and send: `start meta thread`
 
 ## Option 2 — Project Import (Recommended for Ongoing Work)
 Best for sustained or multi-session research.
 
-1. **In ChatGPT / Claude (or any environment that supports project resources),**
-create a **new project** and **upload the five ACI concept files** as project resources.  
-2. **Start a new chat inside that project** and type: "start meta thread"
+1. **In ChatGPT / Claude (or any environment that supports project resources),** create a **new project** and **upload the ACI concept files listed above** as project resources.  
+2. **Start a new chat inside that project** and type: `start meta thread`
 
 ## License  
 
