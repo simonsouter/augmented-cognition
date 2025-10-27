@@ -1,13 +1,12 @@
 # Resources Thread — Candidate List (v1)
 
 ## Core Foundational References
-1. **Wojciech H. Zurek** — *Quantum Darwinism, Decoherence, and the Rise of Classical Reality*  
-2. **Daniel C. Dennett** — *Intuition Pumps and Other Tools for Thinking*; *From Bacteria to Bach and Back*  
-3. **Lev Vygotsky** — *Mind in Society*  
-4. **John Dewey** — *Logic: The Theory of Inquiry*  
-5. **Peter Galison** — *Image and Logic: A Material Culture of Microphysics*  
-6. **Thomas S. Kuhn** — *The Structure of Scientific Revolutions*  
-7. **Karl Popper** — *Objective Knowledge: An Evolutionary Approach*  
+1. **Daniel C. Dennett** — *Intuition Pumps and Other Tools for Thinking*; *From Bacteria to Bach and Back*  
+2. **Lev Vygotsky** — *Mind in Society*  
+3. **John Dewey** — *Logic: The Theory of Inquiry*  
+4. **Peter Galison** — *Image and Logic: A Material Culture of Microphysics*  
+5. **Thomas S. Kuhn** — *The Structure of Scientific Revolutions*  
+6. **Karl Popper** — *Objective Knowledge: An Evolutionary Approach*  
 
 ---
 
