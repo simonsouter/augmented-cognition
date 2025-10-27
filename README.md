@@ -10,11 +10,11 @@ It defines a disciplined, reflective, and compositional approach to thinking wit
 ---
 
 ## Core Premise  
-A large language model is an **amplifier of human conceptual power operating within finite bounds**.  
-Its strength lies in its vast reference space — its ability to map relationships, surface patterns, and articulate ideas across the breadth of recorded knowledge.  
-Its principal constraints are **context degradation**, where coherence and relevance erode as contextual complexity increases, and **context explosion**, where exploratory dialogue expands faster than a human can meaningfully integrate or navigate it.  
-These conditions produce familiar failure modes — hallucination, inconsistency, and conceptual drift — arising not only from model error but from the human–LLM system exceeding its sustainable cognitive capacity.  
-This project is built on that reality: designing methods that **sustain clarity and depth through deliberate control of the information workspace** — decomposing inquiry into threads, structuring expansion, and consolidating insight to maintain a coherent flow of understanding over time.
+A large language model is an amplifier of human conceptual power operating within finite bounds.
+Its strength lies in its vast reference space — its ability to map relationships, surface patterns, and articulate ideas across the breadth of recorded knowledge.
+Its principal constraints are context degradation, where coherence and relevance erode as contextual complexity increases, and context explosion, where exploratory dialogue expands faster than a human can meaningfully integrate or navigate it.
+Alongside these systemic limits, LLMs also exhibit familiar generative failure modes — hallucination, inconsistency, and drift of meaning — which stem from probabilistic generation without grounding or persistent self-modeling.
+This project is built on that reality: designing methods that sustain clarity and depth through deliberate control of the information workspace — decomposing inquiry into threads, structuring expansion, and consolidating insight to maintain a coherent flow of understanding over time.
 
 ---
 
@@ -67,8 +67,7 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 1. [Structured-Conceptual-Enquiry.md](Structured-Conceptual-Enquiry.md)
 2. [Meta-Thread-Concept.md](Meta-Thread-Concept.md)
 3. [Foundation-Phase-Concept.md](Foundation-Phase-Concept.md)
-4. [Inference-Phase-Concept.md](Inference-Phase-Concept.md)
-5. [Integration-Phase-Concept.md](Integration-Phase-Concept.md)
+4. [Integration-Phase-Concept.md](Integration-Phase-Concept.md)
 
 ## Option 1 — Quick Start (Paste-and-Go)
 Ideal for testing or short inquiries directly in ChatGPT or Claude.
