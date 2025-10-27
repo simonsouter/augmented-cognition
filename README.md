@@ -26,23 +26,20 @@ This project is built on that reality: designing methods that **sustain clarity 
 2. **Structure Enables Thought**  
    Inquiry gains power when decomposed into clear threads and re-integrated deliberately. Structure is a cognitive scaffold, not bureaucracy.
 
-3. **Reflection Is the Multiplier**  
-   The greatest advantage of LLM dialogue is temporal freedom. With no timing pressure, each exchange can be followed by reflection — a pause that converts output into understanding.
-
-4. **Dialogue as Cognition**  
+3. **Dialogue as Cognition**  
    Conversation becomes an external reasoning loop. The model articulates possibilities; the human tests, reframes, and integrates them.
 
-5. **Information Flow as Mechanism**  
+4. **Information Flow as Mechanism**  
    Thought is transformed as it moves between conceptual and linguistic spaces — compression, expansion, reconstruction. Mastery of this loop is mastery of augmented thinking.
 
-6. **Asymmetry as Design Principle**  
+5. **Asymmetry as Design Principle**  
    The model generates; the human grounds. Productive asymmetry keeps reasoning dynamic but coherent.
 
-7. **Exploiting the Model’s True Strengths**  
+6. **Exploiting the Model’s True Strengths**  
    LLMs excel at scale — mapping relationships, recalling patterns, and expressing complexity through language.  
    This framework operates *at the edge of that capability*: using structure and reflection to draw maximum conceptual depth from finite context.
 
-8. **Amplification Through Structured Reflection**  
+7. **Amplification Through Structured Reflection**  
    Augmentation emerges not from unbounded generation but from *iterative refinement* — cycles of expansion and consolidation that raise conceptual resolution while preserving coherence and continuity.
 
 ---
