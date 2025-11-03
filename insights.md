@@ -1,7 +1,7 @@
 # 🧠 Foundational Insights of the Augmented Cognition Project
 
 ## 🧭 Overview
-This document summarises the **core conceptual insights** that emerged from the *Augmented Cognition* project — the principles, mechanisms, and models that define how human–LLM interaction can function as a disciplined process of conceptual amplification.  
+This document summarises the **core conceptual insights** that form the foundation of this *Augmented Cognition* project — the principles, mechanisms, and models that define how human–LLM interaction can function as a disciplined process of conceptual amplification.  
 
 It captures the stable architecture of understanding built across all inquiry threads, organised into five foundational domains:  
 
