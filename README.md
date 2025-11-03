@@ -57,17 +57,18 @@ a way to extend human conceptual reasoning through structured dialogue, reflecti
 
 ---
 
-## 🚀 Getting Started — Bootstrapping an Augmented Cognition Project
+## 🚀 Getting Started — Bootstrappcing an Augmented Cognition Project
 
 You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**, depending on how you want to work:
 
 ---
 
 ### ACI concept files (use these once; referenced by both options)
-1. [Structured-Conceptual-Inquiry.md](Structured-Conceptual-Inquiry.md)
-2. [Meta-Thread-Concept.md](Meta-Thread-Concept.md)
-3. [Foundational-Phase-Concept.md](Foundational-Phase-Concept.md)
-4. [Foundational-Phase-Prompting-Guide.md](Foundational-Phase-Prompting-Guide.md)
+1. [Structured-Conceptual-Inquiry.md](/sci/Structured-Conceptual-Inquiry.md)
+2. [Foundational-Phase-Concept.md](/sci/Foundational-Phase-Concept.md)
+3. [Foundational-Phase-Prompting-Guide.md](/sci/Foundational-Phase-Prompting-Guide.md)
+4. [Meta-Thread-Pattern.md](Meta-Thread-Pattern.md)
+
 
 ## Option 1 — Quick Start (Paste-and-Go)
 Ideal for testing or short inquiries directly in ChatGPT or Claude.
