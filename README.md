@@ -13,7 +13,7 @@ It defines a disciplined, reflective, and compositional approach to thinking wit
 A large language model is an amplifier of human conceptual power operating within finite bounds.
 Its strength lies in its vast reference space — its ability to map relationships, surface patterns, and articulate ideas across the breadth of recorded knowledge.
 Its principal constraints are context degradation, where coherence and relevance erode as contextual complexity increases, and context explosion, where exploratory dialogue expands faster than a human can meaningfully integrate or navigate it.
-Alongside these systemic limits, LLMs also exhibit familiar generative failure modes — hallucination, inconsistency, and drift of meaning — which stem from probabilistic generation without grounding or persistent self-modeling.
+Alongside these systemic limits, LLMs also exhibit familiar generative failure modes — hallucination, inconsistency, and drift of meaning.
 This project is built on that reality: designing methods that sustain clarity and depth through deliberate control of the information workspace — decomposing inquiry into threads, structuring expansion, and consolidating insight to maintain a coherent flow of understanding over time.
 
 ---
