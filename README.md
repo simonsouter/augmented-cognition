@@ -63,7 +63,7 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 
 ---
 
-### ACI concept files (use these once; referenced by both options)
+### SCI concept files (use these once; referenced by both options)
 1. [Structured-Conceptual-Inquiry.md](/sci/Structured-Conceptual-Inquiry.md)
 2. [Foundational-Phase-Concept.md](/sci/Foundational-Phase-Concept.md)
 3. [Foundational-Phase-Prompting-Guide.md](/sci/Foundational-Phase-Prompting-Guide.md)
@@ -74,13 +74,13 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 Ideal for testing or short inquiries directly in ChatGPT or Claude.
 
 1. **Open a new LLM chat session.**  
-2. **Paste the ACI concept files listed above (in order) into the chat.**  
+2. **Paste the sci concept files listed above (in order) into the chat.**  
 3. Start a new chat message and send: `start meta thread`
 
 ## Option 2 — Project Import (Recommended for Ongoing Work)
 Best for sustained or multi-session research.
 
-1. **In ChatGPT / Claude (or any environment that supports project resources),** create a **new project** and **upload the ACI concept files listed above** as project resources.  
+1. **In ChatGPT / Claude (or any environment that supports project resources),** create a **new project** and **upload the SCI concept files listed above** as project resources.  
 2. **Start a new chat inside that project** and type: `start meta thread`
 
 ## License  
