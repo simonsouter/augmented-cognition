@@ -1,13 +1,10 @@
 # 🧠 Foundational Insights of the Augmented Cognition Project
-**Artifact Type:** Foundational Canvas  
-**Project:** Augmented Cognition — Human–LLM Conceptual Modelling  
-**Status:** Stable Reference  
 **Function:** Consolidates the key conceptual foundations established through this project for reuse and integration.  
 
 ---
 
 ## 🧭 Overview
-This canvas summarises the **core conceptual insights** that emerged from the *Augmented Cognition* project — the principles, mechanisms, and models that define how human–LLM interaction can function as a disciplined process of conceptual amplification.  
+This document summarises the **core conceptual insights** that emerged from the *Augmented Cognition* project — the principles, mechanisms, and models that define how human–LLM interaction can function as a disciplined process of conceptual amplification.  
 
 It captures the stable architecture of understanding built across all inquiry threads, organised into five foundational domains:  
 1. **Epistemic & Philosophical Foundations**  
