@@ -24,7 +24,7 @@ This project is built on that reality: designing methods that sustain clarity an
    The human defines purpose, framing, and standards of judgment. The LLM extends, never replaces, interpretation.
 
 2. **Structure Enables Thought**  
-   Inquiry gains power when decomposed into clear threads and re-integrated deliberately. Structure is a cognitive scaffold, not bureaucracy.
+   Inquiry gains power when decomposed into clear threads and re-integrated deliberately. Structure is a cognitive scaffold.
 
 3. **Dialogue as Cognition**  
    Conversation becomes an external reasoning loop. The model articulates possibilities; the human tests, reframes, and integrates them.
@@ -53,7 +53,7 @@ This project shows how to think with them — systematically, reflectively, and 
 
 ## Goal  
 To provide a **rigorous, open framework** for expert-level inquiry with LLMs:  
-a way to extend human conceptual reasoning through structured dialogue, reflection, and sustainable design for constraint.
+a way to extend human conceptual reasoning through structured dialogue and reflection.
 
 ---
 
