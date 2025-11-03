@@ -64,10 +64,10 @@ You can start an **Augmented Conceptual Inquiry (ACI)** project in **two ways**,
 ---
 
 ### ACI concept files (use these once; referenced by both options)
-1. [Structured-Conceptual-Enquiry.md](Structured-Conceptual-Enquiry.md)
+1. [Structured-Conceptual-Inquiry.md](Structured-Conceptual-Inquiry.md)
 2. [Meta-Thread-Concept.md](Meta-Thread-Concept.md)
-3. [Foundation-Phase-Concept.md](Foundation-Phase-Concept.md)
-4. [Integration-Phase-Concept.md](Integration-Phase-Concept.md)
+3. [Foundational-Phase-Concept.md](Foundational-Phase-Concept.md)
+4. [Foundational-Phase-Prompting-Guide.md](Foundational-Phase-Prompting-Guide.md)
 
 ## Option 1 — Quick Start (Paste-and-Go)
 Ideal for testing or short inquiries directly in ChatGPT or Claude.
