@@ -4,11 +4,6 @@
 This document summarises the **core conceptual insights** that emerged from the *Augmented Cognition* project — the principles, mechanisms, and models that define how human–LLM interaction can function as a disciplined process of conceptual amplification.  
 
 It captures the stable architecture of understanding built across all inquiry threads, organised into five foundational domains:  
-1. **Epistemic & Philosophical Foundations**  
-2. **Structural & Process Foundations**  
-3. **Cognitive & Metacognitive Foundations**  
-4. **Information & Context Management Foundations**  
-5. **Integration & Systemic Foundations**
 
 ---
 
